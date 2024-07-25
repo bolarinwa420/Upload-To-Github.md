@@ -1,0 +1,20 @@
+```bash
+sudo apt update
+sudo apt install git
+```
+```bash
+git config --global user.name "bolarinwa420"
+git config --global user.email "bolarinwa420@gmail.com"
+```
+```bash
+
+```
+```bash
+git init
+```
+```bash
+git add .
+```
+```
+git commit -m "Initial commit"
+```
